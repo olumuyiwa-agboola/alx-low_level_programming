@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: determines and checks the last digit of a random number
+ * Description: determines and checks the last digit of random number
  * Return: Always 0 (Success)
 */
 int main(void)
